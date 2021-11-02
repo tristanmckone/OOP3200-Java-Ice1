@@ -69,7 +69,7 @@ public class Person
 
     /**
      * This method tests personal class and returns hello
-     * @return {Void}
+     *
      */
     public void SaysHello()
     {

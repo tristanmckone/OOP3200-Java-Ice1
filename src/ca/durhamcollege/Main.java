@@ -1,3 +1,8 @@
+/**
+ * @author Tristan Mckone
+ * @date 2021-11-01
+ */
+
 package ca.durhamcollege;
 
 public class Main {
