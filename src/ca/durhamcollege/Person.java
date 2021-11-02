@@ -37,7 +37,7 @@ public class Person
 
 
     /**
-     *  Constructors
+     *  Default Constructor
      */
     public Person()
     {
